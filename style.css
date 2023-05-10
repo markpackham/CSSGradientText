@@ -1,0 +1,21 @@
+body {
+    background: #ddd;
+    margin: 50px 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    background: linear-gradient(90deg, hsl(345, 44%, 40%), hsl(255, 81%, 29%));
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+
+p {
+    font-size: 30px;
+    background: linear-gradient(90deg, hsl(138, 20%, 61%), hsl(308, 83%, 19%));
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
